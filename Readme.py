@@ -1,3 +1,6 @@
+Proyecto N° 1
+Por Carlos Farias Gallardo
+
 Este repositorio forma parte de los requerimientos solicitados durante la cursada del bootcamp de Data Science de Henry.
 
 Para la aprobación del primer proyecto individual se dio la siguiente consigna:
