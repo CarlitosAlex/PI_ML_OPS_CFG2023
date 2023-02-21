@@ -1,0 +1,7 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: PI_ML_OPS_CFG_2023
+    src: .
+    engine: python3.9
+    primary: true
