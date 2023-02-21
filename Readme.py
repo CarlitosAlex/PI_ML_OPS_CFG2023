@@ -20,4 +20,6 @@ Se propuso:
 + En el archivo ETL_CFG esta todo el proceso de ETL y en el archivo EDA_recomendacion se encuentra el proceso de EDA y entrenamiento del modelo de recomendación.
 + Video explicativo del proyecto https://youtu.be/PHTT0G7EAI4 
 + link Deta https://deta.space/builder/e0aynNsU32WV
++ link api http://127.0.0.1:8000/  ;  http://127.0.0.1:8000/docs#/default/contacto_contacto_get
+
 
